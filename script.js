@@ -8,7 +8,7 @@ document.body.innerHTML=
 <div class="completedom">
 <div class="vertical">
 <div class="name">
-    <label for="text">Name</label>
+    <label for="text" id="Namelabel">Name</label>
     <input type="text" id="nameinput" placeholder="Click to get Data">
 </div>
 <div class="cardsdisplay" id="cardsdata"></div>
